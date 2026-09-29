@@ -1,0 +1,15 @@
+supplier_id,supplier_name,country,material,contract_annual_volume,volume_unit,payment_terms,standard_lead_time_days,contracted_price,pricing_model,incoterm,supplier_status
+S001,MAS Aluminium,Spain,RM-P1020,3460.0,t,60 days EOM,8,2241.0,LME-indexed,DAP Fos,Strategic
+S002,Nordic Metals AS,Norway,RM-P1020,2160.0,t,45 days,24,2284.3,LME-indexed,FCA Mosjøen,Strategic
+S003,Gulf Aluminium Trading,United Arab Emirates,RM-P1020,1700.0,t,30 days,38,2266.3,LME-indexed,FOB Jebel Ali,Approved
+S004,Balkan Primary Metals,Slovenia,RM-P1020,940.0,t,45 days,14,2270.2,LME-indexed,FCA Ljubljana,Approved
+S005,Recyclage Provence,France,RM-SCRAP,1750.0,t,30 days,2,1595.0,Scrap-indexed,DAP Fos,Strategic
+S006,EcoMetal Iberia,Spain,RM-SCRAP,1490.0,t,45 days,6,1532.7,Scrap-indexed,DAP Fos,Approved
+S007,Magnesium Europe GmbH,Germany,RM-MG,80.0,t,60 days,30,3300.0,Fixed annual,DAP Fos,Approved
+S008,SiliMetal France,France,RM-SI,60.0,t,60 days EOM,10,2050.0,Fixed annual,DAP Fos,Approved
+S009,Réfractaires du Sud,France,CON-REFRACT,60.0,t,60 days,20,1450.0,Fixed annual,DAP Fos,Approved
+S010,CastTech Consumables,United Kingdom,CON-FLUX,20.0,t,60 days,14,1900.0,Fixed annual,DAP Fos,Approved
+S011,Master Alloys BV,Netherlands,RM-TIB,10.0,t,45 days,21,4200.0,Fixed annual,DAP Fos,Approved
+S012,Emballages Rhône,France,PKG-PALLET,11000.0,pcs,30 days,5,13.8,Fixed annual,DAP Fos,Approved
+S013,Ceramic Filters Italia,Italy,CON-FILTER,7000.0,pcs,60 days,18,27.5,Fixed annual,DAP Fos,Approved
+S014,Alumetal Trading SA,Switzerland,RM-P1020,0.0,t,Prepayment,4,2432.2,Spot,DAP Fos,Approved - spot

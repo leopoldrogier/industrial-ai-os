@@ -1,0 +1,10 @@
+material_id,material_name,category,unit,standard_consumption,criticality,quality_ppm_limit,standard_cost,safety_stock_days
+RM-P1020,Primary Aluminium Ingot P1020A,Raw material,t,21.597,Critical,350,2280.0,5
+RM-SCRAP,Aluminium Scrap 6063 (sorted),Raw material,t,8.687,High,5000,1600.0,6
+RM-MG,Magnesium Ingot 99.9%,Alloying element,t,0.187,High,800,3300.0,15
+RM-SI,Silicon Metal 553,Alloying element,t,0.143,High,800,2050.0,15
+RM-TIB,AlTi5B1 Grain Refiner Rod,Alloying element,t,0.034,High,600,4200.0,20
+CON-FLUX,Degassing & Cleaning Flux,Consumable,t,0.06,Medium,1000,1900.0,15
+CON-FILTER,Ceramic Foam Filter 20ppi,Consumable,pcs,17.159,Medium,3000,27.5,12
+CON-REFRACT,Refractory Castable (furnace lining),Maintenance,t,0.148,Medium,2000,1450.0,20
+PKG-PALLET,Heavy-duty Wooden Pallet 1200x1000,Packaging,pcs,27.036,Low,10000,13.8,6
